@@ -1,6 +1,6 @@
 #!/bin/bash
 # Change this for a different VM size
-vmSize=Standard_D2_v5
+vmSize=Standard_DS2_v2
 
 # Color theming
 if [ -f ./theme.sh ]
